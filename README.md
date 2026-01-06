@@ -2,7 +2,7 @@
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_saunde95.svg)](https://pypi.org/project/pyospackage_saunde95/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_saunde95.svg)](https://pypi.org/project/pyospackage_saunde95/)  |
+| Package | [(https://pypi.org/project/pyospackage_saunde95/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_saunde95.svg)](https://pypi.org/project/pyospackage_saunde95/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
