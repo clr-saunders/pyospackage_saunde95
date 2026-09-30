@@ -1,6 +1,6 @@
 # Welcome to pyospackage_saunde95
 
-pyospackage_saunde95 is a project created by following the tutorial https://www.pyopensci.org/python-package-guide/tutorials/create-python-package.html to create a python package for education purposes. It is published to Test PyPI at https://test.pypi.org/project/pyospackage_saunde95/
+pyospackage_saunde95 is a Python package learning project completed for DSCI 524: Collaborative Software Development (Spring 2026). It was created following the tutorial https://www.pyopensci.org/python-package-guide/tutorials/create-python-package.html to create a python package for education purposes. It is published to Test PyPI at https://test.pypi.org/project/pyospackage_saunde95/
 
 ## Get started
 
